@@ -38,7 +38,6 @@ router.get('/',(req,res)=>{
    res.send(result);
 
  });
-
   });
 
 router.put('/:id',(req,res)=>{
